@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='[project2walkthrough.gif](https://i.imgur.com/2s1NFmx.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='project2walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LICEcap](https://www.cockos.com/licecap/) for macOS
