@@ -41,10 +41,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/gallery/fruit-trivia-walkthrough-KiNqtPy#VGDhnk9' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='project2walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with [Kap](https://getkap.co/) for macOS
+GIF created with [LICEcap](https://www.cockos.com/licecap/) for macOS
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -53,6 +53,7 @@ GIF created with [Kap](https://getkap.co/) for macOS
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 I encountered challenges while trying to implement the CSS card flip animation and displaying corresponding questions and answers.
 
 ## License
